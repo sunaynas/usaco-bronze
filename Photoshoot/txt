@@ -1,0 +1,36 @@
+1234567890123456
+HGGGHGHHGHHHGHGH
+     F
+GHGGGHHHGHHHGHGH
+                F
+HGHGHHHGHHHGGGHG                
+1234567890123456
+
+
+1234567890123456
+HGGGHGHHGHHHGHGH
+A G A H B H B B
+
+AGAHBHBB
+   F
+BGBBHBB
+       F
+AAHAAGA
+
+.1g1.1.0g0.0g.g0
+HHGHGGGH
+.0.0.1
+12
+HH - H
+GG - G
+HG - A (G is in the right place)
+GH - B (G is in the wrong place)
+
+HHGH
+HGHH
+
+
+GGGHGHHGHHHGHG
+G B B A H A A
+     F
+AAGAHAA
