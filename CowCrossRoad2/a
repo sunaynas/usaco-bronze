@@ -1,0 +1,115 @@
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from tester
+[ RUN      ] tester.test1
+ Running Solve
+ Working on : 0[A] 
+		 Increasing for B totalCrossingPairs = 1
+ 		totalCrossingPairs=1
+ Working on : 1[B] 
+		 Increasing for A totalCrossingPairs = 2
+ 		totalCrossingPairs=2
+ Working on : 2[C] 
+ 		totalCrossingPairs=2
+ Working on : 3[C] 
+ 		totalCrossingPairs=2
+ Working on : 4[A] 
+ 		totalCrossingPairs=2
+ Working on : 5[B] 
+ 		totalCrossingPairs=2
+ Working on : 6[D] 
+ 		totalCrossingPairs=2
+ Working on : 7[D] 
+ 		totalCrossingPairs=2
+ Working on : 8[E] 
+ 		totalCrossingPairs=2
+ Working on : 9[E] 
+ 		totalCrossingPairs=2
+ Working on : 10[F] 
+ 		totalCrossingPairs=2
+ Working on : 11[F] 
+ 		totalCrossingPairs=2
+ Working on : 12[G] 
+ 		totalCrossingPairs=2
+ Working on : 13[G] 
+ 		totalCrossingPairs=2
+ Working on : 14[H] 
+ 		totalCrossingPairs=2
+ Working on : 15[H] 
+ 		totalCrossingPairs=2
+ Working on : 16[I] 
+ 		totalCrossingPairs=2
+ Working on : 17[I] 
+ 		totalCrossingPairs=2
+ Working on : 18[J] 
+ 		totalCrossingPairs=2
+ Working on : 19[J] 
+ 		totalCrossingPairs=2
+ Working on : 20[K] 
+ 		totalCrossingPairs=2
+ Working on : 21[K] 
+ 		totalCrossingPairs=2
+ Working on : 22[L] 
+ 		totalCrossingPairs=2
+ Working on : 23[L] 
+ 		totalCrossingPairs=2
+ Working on : 24[M] 
+ 		totalCrossingPairs=2
+ Working on : 25[M] 
+ 		totalCrossingPairs=2
+ Working on : 26[N] 
+ 		totalCrossingPairs=2
+ Working on : 27[N] 
+ 		totalCrossingPairs=2
+ Working on : 28[O] 
+ 		totalCrossingPairs=2
+ Working on : 29[O] 
+ 		totalCrossingPairs=2
+ Working on : 30[P] 
+ 		totalCrossingPairs=2
+ Working on : 31[P] 
+ 		totalCrossingPairs=2
+ Working on : 32[Q] 
+ 		totalCrossingPairs=2
+ Working on : 33[Q] 
+ 		totalCrossingPairs=2
+ Working on : 34[R] 
+ 		totalCrossingPairs=2
+ Working on : 35[R] 
+ 		totalCrossingPairs=2
+ Working on : 36[S] 
+ 		totalCrossingPairs=2
+ Working on : 37[S] 
+ 		totalCrossingPairs=2
+ Working on : 38[T] 
+ 		totalCrossingPairs=2
+ Working on : 39[T] 
+ 		totalCrossingPairs=2
+ Working on : 40[U] 
+ 		totalCrossingPairs=2
+ Working on : 41[U] 
+ 		totalCrossingPairs=2
+ Working on : 42[V] 
+ 		totalCrossingPairs=2
+ Working on : 43[V] 
+ 		totalCrossingPairs=2
+ Working on : 44[W] 
+ 		totalCrossingPairs=2
+ Working on : 45[W] 
+ 		totalCrossingPairs=2
+ Working on : 46[X] 
+ 		totalCrossingPairs=2
+ Working on : 47[X] 
+ 		totalCrossingPairs=2
+ Working on : 48[Y] 
+ 		totalCrossingPairs=2
+ Working on : 49[Y] 
+ 		totalCrossingPairs=2
+ Working on : 50[Z] 
+ 		totalCrossingPairs=2
+[       OK ] tester.test1 (1 ms)
+[----------] 1 test from tester (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
